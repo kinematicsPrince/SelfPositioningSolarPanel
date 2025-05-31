@@ -36,8 +36,8 @@ This gimbal automatically rotates solar panels towards the most light.
 ### Solar Panels
 |    Pin      | Connected To | Description |
 |-------------|--------------|-------------|
-| Arduino Pin A5       | +  | Red Wire   |
-|Arduino Pin GND      |  -  | Black Wire  |
+| Arduino Pin A5       | Solar Panels  | Red Wire   |
+|Arduino Pin GND      |  Solar Panels  | Black Wire  |
 
 ## Software Requirements
 
