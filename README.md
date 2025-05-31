@@ -1,5 +1,5 @@
 # SelfPositioningSolarPanel
-
+Thingiverse link: https://www.thingiverse.com/thing:7053488
 ## Project Overview
 
 This gimbal automatically rotates solar panels towards the most light.
